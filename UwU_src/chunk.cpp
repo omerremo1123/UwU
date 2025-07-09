@@ -61,16 +61,7 @@ void Chunk::free()
     init();
 }
 
-add_constantds
-add_constantdas
-d
-add_constantasd
-ds
-a
-ds
-add_constant
-
-behn ka 
+test
 
 int Chunk::add_constant(Value value)
 {
